@@ -1,0 +1,14 @@
+flask-cors
+flask
+JayDeBeApi
+# psycopg2
+pg8000
+langchain               ==0.1.0
+langchain-community ==0.0.12
+langchain-core      ==0.1.9
+langchain-openai    ==0.0.2.post1
+langsmith           ==0.0.79
+openai              ==1.7.1
+pandas
+
+# pip install fastapi uvicorn sqlalchemy psycopg2-binary

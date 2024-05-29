@@ -1,0 +1,12 @@
+AZURE_OPENAI:
+    AZURE_OPENAI_API_KEY: api-key
+    AZURE_OPENAI_ENDPOINT: http://*.azure.com
+    OPENAI_API_VERSION: 2023-03-15-preview
+    AZURE_DEPLOYMENT: gpt-35-turbo
+
+POSTGRESQL:
+    HOST: 14.20.79.244
+    USERNAME: name
+    PASSWD: password
+    PORT: 5433
+    DATABASE: database

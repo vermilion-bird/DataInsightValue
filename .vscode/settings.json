@@ -1,0 +1,13 @@
+{
+    "python.formatting.provider": "autopep8",
+    "python.formatting.yapfArgs": [
+        "--style={based_on_style: google, indent_width: 4, column_limit: 150}"
+    ],
+    "editor.fontSize": 14,
+    "debug.console.fontSize": 26,
+    "scm.inputFontSize": 26,
+    "terminal.integrated.fontSize": 20,
+    "markdown.preview.fontSize": 28,
+    "window.zoomLevel": 1,
+    "python.analysis.typeCheckingMode": "off"
+}
